@@ -38,10 +38,10 @@ $$2F_{16} =2\times16^1+15\times16^0 = 47_{10}$$
 Sơ khai là bảng tính (bảng tính Trung Quốc)
 Tiếp theo là Kiến trúc von Neumann
 ## Transistor
-![alt text](transistorwork.png)
+![alt text](/image/transistorwork.png)
 Đại diện 2 giá trị 0 và 1 (*Hệ nhị phân*)
 Có 2 loại là PMOS và NMOS
-![PMOS](PMOS.png)
+![PMOS](/image/PMOS.png)
 >PMOS có vòng tròn nhỏ ở cực (gate)
 
-![NMOS](NMOS.png)
+![NMOS](/image/NMOS.png)
