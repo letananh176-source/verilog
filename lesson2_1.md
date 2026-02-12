@@ -14,3 +14,5 @@ $$\text{Giá trị} = \text{Số}\times\text{Cơ số}^{Mũ}$$
 $$1011_2 = 1\times2^3 + 0\times2^2 + 1\times2^1 + 1\times2^0 = 8+0+2+1 = 11_{10}$$
 * Chuyển đổi: Hệ nhị phân có thể chuyển sang hệ thập phân và ngược lại.
 
+### Hệ bát phân (Octal) - Cơ số 8
+*Đặc điểm: Sử dụng 8 chữ số: 0, 1, 2, 3, 4, 5, 6, 7.
