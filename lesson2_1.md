@@ -16,3 +16,6 @@ $$1011_2 = 1\times2^3 + 0\times2^2 + 1\times2^1 + 1\times2^0 = 8+0+2+1 = 11_{10}
 
 ### Hệ bát phân (Octal) - Cơ số 8
 *Đặc điểm: Sử dụng 8 chữ số: 0, 1, 2, 3, 4, 5, 6, 7.
+*Ứng dụng: Được sử dụng trong lập trình biểu diễn các nhóm 3 bit nhị phân, giúp rút gọn dữ liệu.
+*Ví dụ:
+$$75_8 = 7\times8^1 + 5\times8^0 = 61_{10}$$
