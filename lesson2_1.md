@@ -23,3 +23,25 @@ $$75_8 = 7\times8^1 + 5\times8^0 = 61_{10}$$
     + Từ **nhị phân** sang **bát phân**: Nhóm 3 bit thành một nhóm.
     + Từ **bát phân** sang **nhị phân**: Mỗi chữ số bát phân được biễu diễn bằng 3 bit
 ### Hệ thập lục phân (Hexadecimal) - Cơ số 16
+*   Đặc điểm: sử dụng 16 **ký tự** 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F.
+*   Ứng dụng: Sử dụng trong lập trình và thiết kế mạch để rút gọn dữ liệu nhị phân thành nhóm 4 bit.
+*   Ví dụ:
+$$2F_{16} =2\times16^1+15\times16^0 = 47_{10}$$
+*   Chuyển đổi:
+    + Từ **nhị phân** sang **thập lục phân**: Nhóm 4 bit thành 1 nhóm
+    + Từ **thập lục** sang **nhị Phân**: Mỗi chữ số hex được biểu diễn bằng 4 bit.
+>Hệ 8 sẽ không được sử dụng nhiều
+>Hệ 16 mục đích để rút gọn cách biểu diễn từ hệ 2
+## Kỷ nguyên số - máy tính - chip
+![tham khảo kênh](xem3videodaulist.png)
+**Tóm tắt**
+Sơ khai là bảng tính (bảng tính Trung Quốc)
+Tiếp theo là Kiến trúc von Neumann
+## Transistor
+![alt text](transistorwork.png)
+Đại diện 2 giá trị 0 và 1 (*Hệ nhị phân*)
+Có 2 loại là PMOS và NMOS
+![PMOS](PMOS.png)
+>PMOS có vòng tròn nhỏ ở cực (gate)
+
+![NMOS](NMOS.png)
