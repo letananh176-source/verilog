@@ -45,3 +45,23 @@ Có 2 loại là PMOS và NMOS
 >PMOS có vòng tròn nhỏ ở cực (gate)
 
 ![NMOS](/image/NMOS.png)
+1 => đúng, cao, tín hiệu thông qua
+chấm (o) đảo nghịch lại.
+0 => hở, không được truyền.
+![Mos diagram](image/mosdiagram.png)
+**A := input : 1 hoặc 0**
+**Q:= output : 1 hoặc 0**
+trên (có o): PMOS
+dưới: CMOS
+vdd: tín hiệu mức cao (1)
+vss: tín hiệu nối đất (0)
+
+**Cách hoạt động**
+![kihieu](image/notgate.png)
+>Cổng logic NOT được biểu diễn bằng transistor như thế nào.
+* Nếu A := 0, gặp cổng đảo, vdd đi, output: 1
+    ![Nếu A := 0](image/A0.png)
+* Nếu A := 1, ngược lại, output Q:= 0
+  ![Nếu A := 1](image/a1.png)
+![thamkhao](image/thamkhao.png)
+***Các cổng logic được tạo ra từ transistor***
