@@ -66,7 +66,7 @@ vss: tín hiệu nối đất (0)
 ![thamkhao](image/thamkhao.png)
 ***Các cổng logic được tạo ra từ transistor***
 
-## Bit, byte là gì?
+### Bit, byte là gì?
 ### Bit (Binary digit):
 * **Định nghĩa:** Bit là đơn vị nhỏ nhất của dữ liệu trong máy tính, biểu diễn một giá trị nhị phân là 0 hoăc 1.
 * **Ứng dụng:** Bit được sử dụng để biểu diễn trạng thái logic, tín hiệu bật/tắt (on/off), hoặc các mức điện áp thấp/cao trong thiết bị điện tử.
@@ -86,3 +86,29 @@ vss: tín hiệu nối đất (0)
 Ví dụ:
 > * Một số nhị phân 8-bit: 11001010 tương đương 1 byte.
 > * Một file text 1 KB chứa khoảng 1024 kí tự, tương đương 8192 bit.
+
+## CHUYỂN ĐỔI CÁC HỆ THỐNG SỐ.
+### Hệ 2, 8, 16 sang hệ 10
+>$$\text{Giá trị} = \text{Số}\times\text{Cơ số}^{Mũ}$$
+ 
+Ví dụ:
+* **2 sang 10**
+$$ 10110,011_2 = 1\times2^4+0\times2^3+1\times2^2+1\times2^1+0\times2^0+0\times2^{-1}+1\times2^{-2}+1\times2^{-3}$$
+$$=16+4+2+0,25+0,125 = 22,375_{10}$$
+* **16 sang 10**
+$$BA,4_{16} = 11\times16^1+10\times16^0+4\times16^{-1} = 176 + 10 +0,25 = 186,25_{10}$$
+### Hệ 10 sang hệ 2, 8 ,16.
+>Chia cho cơ số của hệ đó
+
+
+
+
+
+### Hệ 2 sang 8 hoặc 16.
+>8: gom 3 bit.
+>16: gom 4 bit.
+
+
+
+
+
