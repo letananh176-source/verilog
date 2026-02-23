@@ -65,3 +65,24 @@ vss: tín hiệu nối đất (0)
   ![Nếu A := 1](image/a1.png)
 ![thamkhao](image/thamkhao.png)
 ***Các cổng logic được tạo ra từ transistor***
+
+## Bit, byte là gì?
+### Bit (Binary digit):
+* **Định nghĩa:** Bit là đơn vị nhỏ nhất của dữ liệu trong máy tính, biểu diễn một giá trị nhị phân là 0 hoăc 1.
+* **Ứng dụng:** Bit được sử dụng để biểu diễn trạng thái logic, tín hiệu bật/tắt (on/off), hoặc các mức điện áp thấp/cao trong thiết bị điện tử.
+* **Kí hiệu:** b (chữ thường).
+* **Ví dụ**
+  * Một bit có thể là 0 (tắt) hoặc 1 (bật).
+  * Trong truyền thông, tốc độ mạng thường được đo bằng bps (bits per second).
+### Byte:
+* **Định nghĩa:** Byte là một tập hợp của 8 bit, được sử dụng làm đơn vị cơ bản để lưu trữ dữ liệu trong máy tính.
+* **Ứng dụng:** Byte thường biểu diễn một kí tự (như chữ cái, số hoặc kí tự đặc biệt) trong mã hoá như **ASCII** hoặc **UTF-8**.
+* **Ký hiệu:** B (chữ hoa)
+* **Ví dụ**
+    * 1 byte có thể lưu trữ một ký tự, ví dụ: A, 1, hoặc @.
+    * Dung lượng lưu trữ máy tính thường được đo bằng byte, như kilobyte (KB), megabyte (MB), gigabyte (GB).
+>Mối liên hệ giữa bit và byte:
+1 Byte = 8 bit
+Ví dụ:
+> * Một số nhị phân 8-bit: 11001010 tương đương 1 byte.
+> * Một file text 1 KB chứa khoảng 1024 kí tự, tương đương 8192 bit.
